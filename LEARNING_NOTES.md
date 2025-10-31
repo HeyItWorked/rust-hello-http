@@ -1296,6 +1296,5 @@ cargo add <package_name>
 ---
 
 **Last Updated:** 2025-10-30
-**Latest Additions:** Clone vs Move, Result Types, Iterators & Closures, Vec Quick Reference, Mutable Methods
 
-**Remember:** This is a living document. Add your own notes and discoveries as you learn!
+**Latest Additions:** Clone vs Move, Result Types, Iterators & Closures, Vec Quick Reference, Mutable Methods
